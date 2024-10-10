@@ -1,0 +1,4 @@
+pour faired es recherche sur l'url d'un api on ecrit à la fin de l'url q= ex:
+api.plos.org/search?q=title:dna
+plusieurs champ peut êyre requetté avec des operateurs comme and, or ou not. exemple: on fait cntrl+f
+api.plos.org/search?q=title:dna AND date>2020 : nous donne toutes les articles publié aprés 2020
